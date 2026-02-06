@@ -1,0 +1,35 @@
+# Bike Service Slot Booking System
+
+A responsive web application for booking bike service slots online.
+Designed for service centers to manage customer appointments efficiently.
+
+## Features
+- Bike service slot booking form
+- Date & time slot selection
+- Mobile-friendly responsive UI
+- Clean and simple UX
+- Easy backend integration (PHP / Node.js / Firebase)
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
+## Use Cases
+- Bike service centers
+- Vehicle maintenance shops
+- Appointment-based businesses
+
+## Future Enhancements
+- Admin dashboard
+- Slot availability logic
+- Payment integration
+- Email & SMS notifications
+
+## Live Demo
+(Add your GitHub Pages / Netlify link here)
+
+## Author
+**Your Name**  
+Freelance Web Developer  
+📍 Available for US / Singapore / Malaysia clients
