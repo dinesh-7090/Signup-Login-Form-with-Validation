@@ -3,7 +3,7 @@ import psycopg2
 from psycopg2.extras import RealDictCursor
 import bcrypt
 import os
-
+#
 app = Flask(__name__)
 app.secret_key = 'your-secret-key-change-in-production'
 
